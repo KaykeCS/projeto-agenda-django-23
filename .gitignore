@@ -7,7 +7,7 @@ db.sqlite3
 media/
 static/
 .vscode
-
+project/local_settings.py
 # Backup files #
 *.bak
 
